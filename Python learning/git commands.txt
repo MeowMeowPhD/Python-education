@@ -12,6 +12,10 @@ git log
 git branch someBranch (creates a branch called somebranch)
 git checkout someBranch (Switches to the branch someBranch)
 git merge someBranch (merges someBranch into the current branch)
+
+git fetch 
+git pull (= git fetch + git merge)
+
 clear (clears the command window of git bash)
 ls (lists all the files in the current branch)
 cat blabla.txt (loads the text file in git bash)
