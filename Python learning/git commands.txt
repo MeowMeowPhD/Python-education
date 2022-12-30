@@ -10,3 +10,4 @@ git commit -m "some message"
 git log
 clear (clears the command window of git bash)
 ls (lists all the files in the current branch)
+cat blabla.txt (loads the text file in git bash)
