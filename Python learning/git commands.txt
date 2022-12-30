@@ -6,4 +6,5 @@ git add blabla.txt
 git add .
 git commit -m "some message"
 git log
-clear
+clear (clears the command window of git bash)
+ls (lists all the files in the current branch)
