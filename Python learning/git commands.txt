@@ -7,13 +7,14 @@ git push --set-upstream origin master
 git add blabla.txt
 git add .
 git commit -m "some message"
+git commit -a -m "some message"
 git log
+git branch someBranch (creates a branch called somebranch)
+git checkout someBranch (Switches to the branch someBranch)
+git merge someBranch (merges someBranch into the current branch)
 clear (clears the command window of git bash)
 ls (lists all the files in the current branch)
 cat blabla.txt (loads the text file in git bash)
-git branch someBranch (creates a branch called somebranch)
-git checkout someBranch (Switches to the branch someBranch)
-
 
 
 -----
