@@ -13,6 +13,9 @@ git commit -a -m "some message"
 git log
 git branch someBranch (creates a branch called somebranch)
 git checkout someBranch (Switches to the branch someBranch)
+git checkout <first 8 digits of a commit> <fileName> (reverts back changes to the branch by going back to the commit 
+designated by the first 8 digits)
+
 git merge someBranch (merges someBranch into the current branch)
 git rebase someBranch (merges someBranch into the current branch. Log history will be linear meaning that people 
 cannot know when the integration has happended by who.)
@@ -23,6 +26,7 @@ git pull (= git fetch + git merge)
 clear (clears the command window of git bash)
 ls (lists all the files in the current branch)
 cat blabla.txt (loads the text file in git bash)
+q (to get out of git log)
 
 
 -----
