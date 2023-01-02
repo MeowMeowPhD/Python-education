@@ -5,6 +5,7 @@ git pull origin master
 git push origin master (pushes the master branch into the central repository)
 git push origin someBranch (creates and pushes someBranch into the central repository-
 this means that in github server you will have a branch called someBranch)
+
 git push --set-upstream origin master
 git add blabla.txt
 git add .
@@ -12,6 +13,7 @@ git commit -m "some message"
 git commit -a -m "some message"
 git log
 git branch someBranch (creates a branch called somebranch)
+git branch (lists all the existing branches)
 git checkout someBranch (Switches to the branch someBranch)
 git checkout <first 8 digits of a commit> <fileName> (reverts back changes to the branch by going back to the commit 
 designated by the first 8 digits)
