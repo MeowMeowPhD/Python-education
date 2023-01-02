@@ -34,3 +34,8 @@ q (to get out of git log)
 -----
 Changes that are made in a branch are only shown/tracked in that branch not other 
 branches unless you merge it.
+
+question 1: how to copy a text in git bash? ctrl + insert -> copy, shift + insert -> paste
+question 2: git stash? temporarily shelves (or stashes) the changes you've made to your working copy so you can work on something else, and then come back and re-apply them later on.
+question 3: git diff? what is it used for?
+question 4: how to use SSH to push changes into the remote repo?
