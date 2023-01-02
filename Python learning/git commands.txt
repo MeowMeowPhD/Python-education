@@ -2,8 +2,8 @@ git init
 git remote add origin ""
 git clone ""
 git pull origin master
-git push origin master (pushes the master branch into the center repository)
-git push origin someBranch (creates and pushes someBranch into the center repository-
+git push origin master (pushes the master branch into the central repository)
+git push origin someBranch (creates and pushes someBranch into the central repository-
 this means that in github server you will have a branch called someBranch)
 git push --set-upstream origin master
 git add blabla.txt
