@@ -40,7 +40,7 @@ question 2: git stash? temporarily shelves (or stashes) the changes you've made 
 read: https://opensource.com/article/21/4/git-stash
 
 question 3: git diff? what is it used for?
-question 4: how to use SSH to push changes into the remote repo?
+question 4: how to use SSH to push changes into the remote repo? Does this protect our repo from external pushes?
 question 5: what does git reset HEAD^ does?
 question 6: how to change the files added in the staging step?
 question 7: how to use the .ignore files? 
